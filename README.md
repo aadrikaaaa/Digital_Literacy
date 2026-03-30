@@ -64,9 +64,9 @@ Researched and wrote a case study on **UPI/Online Payment Fraud**, including how
 
 | Platform | Profile Link |
 |---|---|
-| GitHub | [github.com/YOUR_USERNAME](https://github.com/aadrikaaaa) |
-| LinkedIn | [linkedin.com/in/YOUR_PROFILE] (www.linkedin.com/in/aadrika-kumar-14192839b)|
-| Kaggle | [kaggle.com/YOUR_USERNAME](https://kaggle.com/aadrikakumar) |
+| GitHub | (https://github.com/aadrikaaaa) |
+| LinkedIn | (www.linkedin.com/in/aadrika-kumar-14192839b)|
+| Kaggle | (https://kaggle.com/aadrikakumar) |
 | Google Form (Quiz) | (https://forms.gle/FcX6TVRafGnfz3Qi8) |
 
 ---
